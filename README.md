@@ -3,7 +3,7 @@
 		<div class="content-wrapper">
 			<div class="content-inner">
 				<h2>Magento 2 Google Rich Snippets Extension</h2>
-				<p>Increase targeted website traffic and improve search engine rankings of your Magento 2 store using<strong><a href="https://www.mageants.com/google-rich-snippets-for-magento-2.html">Magento 2 Google Rich Snippets Extension</a></strong>. It is the ultimate tool to add Google Rich Snippets to your Magento 2 store and improve structured data in a few clicks.</p>
+				<p>Increase targeted website traffic and improve search engine rankings of your Magento 2 store using<strong><a href="https://www.mageants.com/google-rich-snippets-for-magento-2.html">Magento 2 Google Rich Snippets Extension</a></strong> It is the ultimate tool to add Google Rich Snippets to your Magento 2 store and improve structured data in a few clicks.</p>
 				<p>Fast website indexation, Improved Magento website search visibility, Relevant and segmented traffic, and Increased conversion rates through high-quality traffic are a few of the benefits for using this extension.</p>
 				<div class="features-wrapper">
 					<h3>Key Features</h3>
